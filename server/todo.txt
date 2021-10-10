@@ -1,0 +1,2 @@
+- stworzyć połączenie z baza danych 
+- stworzyć model do bazy danych 
